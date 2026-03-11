@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Power BI Amazon Sales Analysis</title>
+
 </head>
 
 <body>
@@ -33,7 +33,7 @@ and make <b>data-driven business decisions</b>.
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-<img src="dashboard.png" width="900">
+<img src="https://github.com/Omkar2304/PowerBI--Amazon-Sales-Analysis/blob/ad8c9fe12dab3440ef32f16c06b1e9415094ac75/Screenshot%202026-03-11%20190313.png" width="900">
 </p>
 
 <p align="center">
