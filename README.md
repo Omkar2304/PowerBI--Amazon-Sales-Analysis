@@ -6,7 +6,7 @@
 
 <body>
 
-<h1 align="center">📊 Power BI Amazon Sales Analysis Dashboard</h1>
+<h1 align="center">📊 Power BI: Amazon Sales Analysis Dashboard</h1>
 
 <h2>📊 Project Overview</h2>
 
